@@ -103,13 +103,6 @@ Extracted JSON Output:
 
 --------------------------------------------------------------------------------
 
-## 📂 Repository Structure
-📦 groq-assignment  
- ┣ 📜 README.md          → Project documentation  
- ┣ 📜 Untitled18.ipynb   → Main Colab notebook (solution)  
-
---------------------------------------------------------------------------------
-
 ## ⚡ Usage
 1. Open `Untitled18.ipynb` in Google Colab.  
 2. Set your Groq API key:  
@@ -123,7 +116,6 @@ Extracted JSON Output:
 ## 🏆 Conclusion
 - Task 1 → Implemented conversation history, truncation, periodic summarization.  
 - Task 2 → Implemented JSON schema extraction, function calling, validation.  
-- Meets all assignment requirements and evaluation criteria.  
 
---------------------------------------------------------------------------------
-✨ Done with ❤️ and Python.
+
+
