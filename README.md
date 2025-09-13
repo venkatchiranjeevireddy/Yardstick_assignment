@@ -104,7 +104,7 @@ Extracted JSON Output:
 --------------------------------------------------------------------------------
 
 ## ⚡ Usage
-1. Open `Untitled18.ipynb` in Google Colab.  
+1. Open `Yardstick_assignment.ipynb` in Google Colab.  
 2. Set your Groq API key:  
    api_key = "your_groq_api_key"  
 3. Run all cells sequentially.  
